@@ -1,0 +1,14 @@
+{
+  "name": "updateAddress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "util": "^0.12.3"
+  }
+}
